@@ -1,0 +1,16 @@
+
++ + + + + + + + + + + +
+Election Results
++ + + + + + + + + + + +
+
+WINNER: Khan
+
+In total there were 1048575 votes cast in this election.
+
+The candidates included ['Khan', 'Correy', 'Li', "O'Tooley"]
+Counties casting votes included ['Marsh', 'Queen', 'Bamoo', 'Trandee', 'Raffah']
+
+Khan received 63.1% of the total vote (661583)
+Correy received 19.9% of the total vote (209046)
+Li received 14.0% of the total vote (146360)
+O'Tooley received 3.0% of the total vote (31586)
